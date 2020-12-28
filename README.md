@@ -7,5 +7,7 @@ It uses [**repl.it**](https://repl.it/@LiuLanLan/Discord-Bot#main.py), **repl.it
 It uses **Flask** to create a web server and [**Uptime Robot**](https://uptimerobot.com/) to ping the server every 5 mins, so the bot can be run continuously.
 
 
+Bot token needs to be added in .env
+
 
 
